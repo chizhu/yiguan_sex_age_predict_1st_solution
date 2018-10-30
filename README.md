@@ -9,15 +9,14 @@
 
 * 1.产出特征文件 
 
---- 按照nb_cz_lwl_wcm文件夹运行说明分别运行 nb_cz_lwl_wcm文件夹下的所有文件产出特征文件 feature_one.csv
-
----按照thluo 文件夹下运行说明分别运行 thluo 文件夹下的代码生成 thluo_train_best_feat.csv
+> 按照nb_cz_lwl_wcm文件夹运行说明分别运行 nb_cz_lwl_wcm文件夹下的所有文件产出特征文件 feature_one.csv
+> 按照thluo 文件夹下运行说明分别运行 thluo 文件夹下的代码生成 thluo_train_best_feat.csv
 
 * 2.模型加权
 注：模型所得到的结果在linwangli文件夹下
 
----  运行完thluo文件夹下面的所有代码会生成thluo_prob
---- 用linwangli/code文件夹下面的模型以及上面所求得的特征文件可跑出对应概率文件，相关概率文件加权方案看 linwangli文件夹下面的融合思路ppt
+> 运行完thluo文件夹下面的所有代码会生成thluo_prob
+> 用linwangli/code文件夹下面的模型以及上面所求得的特征文件可跑出对应概率文件，相关概率文件加权方案看 linwangli文件夹下面的融合思路ppt
 
 > note:因为特征文件太大我们就未上传，仅上传了代码，如果需要我们提供，请联系我们。
 
