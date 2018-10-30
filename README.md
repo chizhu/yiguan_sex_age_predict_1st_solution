@@ -23,7 +23,7 @@
 
 
 
-* contributors:[THLUO](https://thluo) , [林望黎](https://lwl) , [王灿明](https://wcm) , [chizhu](https://github.com/chizhu) , [NURBS](github.com/NURBS)
+* CONTRIBUTORS:[THLUO](https://thluo)   [林望黎](https://lwl)   [王灿明](https://wcm)   [chizhu](https://github.com/chizhu) [NURBS](github.com/NURBS)
 
 
 
