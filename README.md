@@ -19,9 +19,8 @@
 > 运行完thluo文件夹下面的所有代码会生成thluo_prob
 > 用linwangli/code文件夹下面的模型以及上面所求得的特征文件可跑出对应概率文件，相关概率文件加权方案看 linwangli文件夹下面的融合思路ppt
 
-
-
-# CONTRIBUTORS:[THLUO](https://thluo)   [林望黎](https://lwl)   [王灿明](https://wcm)   [chizhu](https://github.com/chizhu) [NURBS](github.com/NURBS)
+<hr>
+CONTRIBUTORS:[THLUO](https://thluo)   [林望黎](https://lwl)   [王灿明](https://wcm)   [chizhu](https://github.com/chizhu) [NURBS](github.com/NURBS)
 
 
 
