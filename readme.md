@@ -1,2 +1,0 @@
-# yiguan_sex_age_predict_1st_solution
-易观性别年龄预测第一名解决方案
