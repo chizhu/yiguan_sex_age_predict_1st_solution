@@ -1,6 +1,7 @@
-# yiguan_sex_age_predict_1st_solution
+# yiguan_sex_age_predict_1st_solution 
 易观性别年龄预测第一名解决方案
 
+[比赛链接](https://www.tinymind.cn/competitions/43)
 --------
 
 团队是分别个人做然后再合并，所以团队中特征文件有所交叉，主要用到的方案是stacking不同模型，因为数据产出的维度较高，通过不同模型stacking可以达到不会损失过量信息下达到降维的目的。
