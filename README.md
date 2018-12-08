@@ -22,7 +22,7 @@
 <br>
 <br>
 
-CONTRIBUTORS:[THLUO](https://github.com/THLUO)   [林望黎](https://github.com/WangliLin)   [Puck Wang](https://github.com/PuckWong)   [chizhu](https://github.com/chizhu) [NURBS](github.com/NURBS)
+CONTRIBUTORS:[THLUO](https://github.com/THLUO)   [WangliLin](https://github.com/WangliLin)   [Puck Wang](https://github.com/PuckWong)   [chizhu](https://github.com/chizhu) [NURBS](github.com/NURBS)
 
 
 
